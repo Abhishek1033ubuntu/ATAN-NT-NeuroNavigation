@@ -74,8 +74,21 @@ The simulations run on standard Python 3.x environments and require only `numpy`
 
    Recommended Lab Rig ValidationTo transition this software architecture into a physical proof-of-concept, researchers can construct a bench-top testing framework:Matrix: A $0.5\%$ agarose hydrogel block cast inside a rigid acrylic shell to simulate brain tissue density within a skull.Plumbing: A microfluidic channel molded through the gel flowing with deionized water to simulate the cerebrospinal fluid pathway.Payload: Fluorescent alginate beads ($10\text{--}50\ \mu\text{m}$) mapped via tracking cameras to mathematically verify the accuracy of the acoustic routing and disintegration scripts.
 
-   License
-This project is open-source and licensed under the MIT License—feel free to use, modify, and build upon this conceptual architecture!
+# Important Notice
 
-Disclaimer: This repository presents a conceptual systems-engineering framework and software simulation model. It is intended for educational exploration of wave physics and automation control loops in biomedical applications.
+This repository contains code published for demonstration and testing purposes only. 
+The underlying intellectual property (IP) — including inventions, processes, methods, 
+algorithms, and research results — is proprietary and protected under Indian law and 
+international treaties (Berne Convention, Paris Convention, TRIPS Agreement).
+
+By accessing this repository, you agree:
+- The code may be viewed and studied for non-commercial, educational, or research use only.
+- Any reproduction, modification, distribution, or commercialization of the IP is strictly prohibited.
+- Enforcement of rights will be pursued under Indian jurisdiction and applicable international treaties.
+
+For licensing inquiries or commercial permissions, please contact:
+Abhishek Singh  | UIDAI: 9414 9122 9013
+Email: abhishek1033@gmail.com | abhishek.s@live.in
+Location: Madhya Pradesh, India
+aimer: This repository presents a conceptual systems-engineering framework and software simulation model. It is intended for educational exploration of wave physics and automation control loops in biomedical applications.
 
