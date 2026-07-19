@@ -74,6 +74,9 @@ The simulations run on standard Python 3.x environments and require only `numpy`
 
    Recommended Lab Rig ValidationTo transition this software architecture into a physical proof-of-concept, researchers can construct a bench-top testing framework:Matrix: A $0.5\%$ agarose hydrogel block cast inside a rigid acrylic shell to simulate brain tissue density within a skull.Plumbing: A microfluidic channel molded through the gel flowing with deionized water to simulate the cerebrospinal fluid pathway.Payload: Fluorescent alginate beads ($10\text{--}50\ \mu\text{m}$) mapped via tracking cameras to mathematically verify the accuracy of the acoustic routing and disintegration scripts.
 
+
+Discaimer: This repository presents a conceptual systems-engineering framework and software simulation model. It is intended for educational exploration of wave physics and automation control loops in biomedical applications.
+
 # Important Notice
 
 This repository contains code published for demonstration and testing purposes only. 
@@ -90,5 +93,3 @@ For licensing inquiries or commercial permissions, please contact:
 Abhishek Singh  | UIDAI: 9414 9122 9013
 Email: abhishek1033@gmail.com | abhishek.s@live.in
 Location: Madhya Pradesh, India
-aimer: This repository presents a conceptual systems-engineering framework and software simulation model. It is intended for educational exploration of wave physics and automation control loops in biomedical applications.
-
