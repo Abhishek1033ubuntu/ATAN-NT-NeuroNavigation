@@ -1,7 +1,8 @@
 # ATAN-NT: Automated Transcranial Acoustic Navigation & Neural Targeting
----
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21565706.svg)](https://doi.org/10.5281/zenodo.21565706) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21565706.svg)](https://doi.org/10.5281/zenodo.21565706)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ---
 An open-source conceptual software architecture and physics simulation exploring how multi-actuator ultrasound arrays, closed-loop passive acoustic tracking, and adaptive 3D pathfinding can theoretically navigate and differentiate stem cells for Parkinson's disease treatment without invasive surgery.
@@ -95,3 +96,5 @@ For licensing inquiries or commercial permissions, please contact:
 Abhishek Singh  | UIDAI: 9414 9122 9013
 Email: abhishek1033@gmail.com | abhishek.s@live.in
 Location: Madhya Pradesh, India
+
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
