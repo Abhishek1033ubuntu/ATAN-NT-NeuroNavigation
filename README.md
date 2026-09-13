@@ -22,13 +22,13 @@ An open-source conceptual software architecture and physics simulation exploring
 ## 🧠 System Architecture
 
 The project is split into three core computational pillars matching a classic robotic framework: **The Ears**, **The Brain**, and **The Muscles**.
-
+```
 +-----------------------------------------------------------------+
 |                    1. DATA & MAPPING LAYER                      |
 |  [High-Res 3D MRI/CT] ---> [Fluid (CSF) & Target Segmenter]    |
 +------------------------------------+----------------------------+
-|
-▼
+                                 |
+                                 ▼
 +-----------------------------------------------------------------+
 |                 2. CENTRAL PROCESSING ENGINE                    |
 |  [Shortest-Path Router] ---> [Acoustic Phasing Simulator (FEM)] |
@@ -36,13 +36,13 @@ The project is split into three core computational pillars matching a classic ro
 |             | (Fault / Re-Route)               ▼ (Drive Signals)|
 |     [Decision Tree Script] <--- [FFT Spectral Analysis (PCD)]   |
 +------------------------------------+----------------------------+
-|
-▼
+                                 |
+                                 ▼
 +-----------------------------------------------------------------+
 |                  3. PHYSICAL ACTUATION LOOP                     |
 |  [1024-Element Actuator Array] <-> [Hydrogel Rig Simulation]     |
 +-----------------------------------------------------------------+
-
+```
 ---
 
 ## 📂 Source Code Structure
