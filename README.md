@@ -1,7 +1,6 @@
 # ATAN-NT: Automated Transcranial Acoustic Navigation & Neural Targeting
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21565706.svg)](https://doi.org/10.5281/zenodo.21565706)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21565706-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21565706)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ---
